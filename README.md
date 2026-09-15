@@ -1,6 +1,7 @@
 # Smart Contactless Classroom
 
 A Python-based Smart Contactless Classroom System designed to automate attendance management using computer vision and facial recognition technologies.
+https://smart-time-management-system.vercel.app/
 
 ## Features
 
