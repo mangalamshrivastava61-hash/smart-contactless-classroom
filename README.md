@@ -2,8 +2,6 @@
 
 A Python-based Smart Contactless Classroom System designed to automate attendance management and presentation control using computer vision, LBPH facial recognition, and MediaPipe hand gesture recognition.
 
-[Smart Time Management Demo](https://smart-time-management-system.vercel.app/)
-
 ---
 
 ## Features
